@@ -4,7 +4,7 @@ const COLUMNS = [
   {
     title: "Investor Resources",
     links: [
-      { label: "Investor Overview", href: "#top" },
+      { label: "Investor Overview", href: "#why-now" },
       { label: "Book Investor Meeting", href: "mailto:support@habisolo.com" },
       { label: "Investment Opportunity", href: "#cta" },
     ],
@@ -18,7 +18,7 @@ const COLUMNS = [
       { label: "Product Ecosystem", href: "#product-ecosystem" },
       { label: "Business Model", href: "#business-model" },
       { label: "Why Invest Now?", href: "#why-now" },
-      { label: "The Founder", href: "#top" },
+      { label: "The Founder", href: "#founder" },
     ],
   },
   {

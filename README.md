@@ -3,7 +3,7 @@
 A standalone Next.js investor pitch landing page for Habisolo, covering the
 problem, product ecosystem, market opportunity, business model, traction,
 funding round and founder vision.
-/
+
 ## Stack
 
 - Next.js 16 (App Router)
